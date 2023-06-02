@@ -33,11 +33,9 @@ Download [balenaEtcher](https://www.balena.io/etcher/) and the [macOS Ventura 13
 
 Open balenaEtcher, select the `.raw` image you downloaded earlier, select the USB you want to use and click "Flash".
 
-Open the EFI of your USB and **delete everything** (the root of the EFI should be blank).
+Open the EFI of your USB and **delete everything**.
 
-Now, [download the latest version of this EFI](https://github.com/AurelienAudero/Intel-i5-7400-Hackintosh-EFI/releases/latest) and paste the "EFI" folder at the root of the USB it should look like this :
-
-![EFI-directory-Screenshot](/Images/EFI-directory-Screenshot.png)
+Paste the "EFI" folder at the root of the EFI usb partition.
 
 Finally, your USB is ready but before using it you will have to [Setup the SMBIOS](#setup-the-smbios)
 
