@@ -20,7 +20,6 @@
 | Wi-Fi | Working at full speed |
 | Bluetooth | Soon |
 | USB | Working at full speed (up to USB 3.1) |
-| Sleep | May work depending of your configuration |
 | iCloud | Working |
 | iMessage and FaceTime | Soon |
 | Handoff and Continuity | Soon |
