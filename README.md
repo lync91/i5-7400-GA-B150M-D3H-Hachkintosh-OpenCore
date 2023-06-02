@@ -16,9 +16,6 @@
 | DVI | Working at 1920x1080@60Hz |
 | Ethernet | Working at full speed |
 | iGPU | Working |
-| DRM | Working partially ([see more info](https://github.com/AurelienAudero/Intel-i5-7400-Hackintosh-EFI/issues/5)) |
-| Wi-Fi | Working at full speed |
-| Bluetooth | Soon |
 | USB | Working at full speed (up to USB 3.1) |
 | iCloud | Working |
 | iMessage and FaceTime | Soon |
